@@ -1,7 +1,19 @@
-### Artificial Intelligence | Education | Entrepreneurship
+👋 Hi, I'm @NyoLaeMay
 
-- 👋 Hi, I’m @NyoLaeMay.
-- 👀 I’m interested in AI, Data Science, NLP, AI Ethics,and Data Ethics.
-- 💞️ I’m looking to collaborate on "AI Ethics, HateSpeech" research papers and projects.
-- 📫 How to reach me ... nyolaemaynyolaemay@gmail.com.
+I'm an ICT student at Rangsit University, learning to build useful and creative tech solutions. I'm especially interested in mobile app development, software engineering, and practical applications of AI.
 
+🧰 Skills & Tools
+- **Languages**: Python, Java, Dart  
+- **Mobile**: Flutter  
+- **Other**: Git, Firebase, MySQL, TensorFlow
+
+🌱 Currently Learning
+- Mobile development with Flutter  
+- AI basics and machine learning  
+- Building full-stack apps
+
+📫 Contact
+- Email: nyolaemaynyolaemay@gmail.com
+- LinkedIn: www.linkedin.com/in/nyolae-may-a60b9b204
+
+Thanks for stopping by!
