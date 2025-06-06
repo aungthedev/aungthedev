@@ -13,7 +13,7 @@ I'm an ICT student at Rangsit University, learning to build useful and creative 
 - Building full-stack apps
 
 📫 Contact
-- Email: nyolaemaynyolaemay@gmail.com
-- LinkedIn: www.linkedin.com/in/nyolae-may-a60b9b204
+- Email: nyolaemay122@gmail.com
+- LinkedIn: www.linkedin.com/in/nyolaemay
 
 Thanks for stopping by!
