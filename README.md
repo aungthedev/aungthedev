@@ -3,7 +3,7 @@
 I'm an ICT student at Rangsit University, learning to build useful and creative tech solutions. I'm especially interested in mobile app development, software engineering, and practical applications of AI.
 
 🧰 Skills & Tools
-- **Languages**: Python, Java, Dart, Kotlin 
+- **Languages**: Python, Dart, Kotlin, JavaScript 
 - **Mobile**: Flutter  
 - **Other**: Git, Firebase, MySQL, TensorFlow
 
