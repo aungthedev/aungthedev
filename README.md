@@ -4,12 +4,9 @@ I'm an ICT student at Rangsit University, learning to build useful and creative 
 
 🧰 Skills & Tools
 - **Languages**: Python, Dart, Kotlin, JavaScript 
-- **Mobile**: Flutter  
-- **Other**: Git, Firebase, MySQL, TensorFlow
+- **Other**: Git, Firebase, MySQL
 
-🌱 Currently Learning
-- Mobile development with Kotlin  
-- AI basics and machine learning  
+🌱 Currently Learning  
 - Building full-stack apps
 
 📫 Contact
