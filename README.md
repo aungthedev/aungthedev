@@ -1,16 +1,17 @@
-👋 Hi, I'm @NyoLaeMay
+👋 Hi, I'm @aungthedev
 
-I'm an ICT student at Rangsit University, learning to build useful and creative tech solutions. I'm especially interested in mobile app development, software engineering, and practical applications of AI.
+I'm a 4th-year ICT student at Rangsit University, currently in my final year. I'm focused on learning front-end development and passionate about crafting clean, responsive user interfaces.
 
-🧰 Skills & Tools
-- **Languages**: Python, Dart, Kotlin, JavaScript 
-- **Other**: Git, Firebase, MySQL
+🧰 Skills & Tools  
+- **Languages**: HTML, CSS, basic JavaScript  
+- **Frameworks**: Tailwind CSS  
+- **Other**: Git
 
 🌱 Currently Learning  
-- Building full-stack apps
+- Building responsive front-end interfaces  
+- Integrating Tailwind CSS with custom styles  
+- Strengthening JavaScript fundamentals
 
-📫 Contact
-- Email: nyolaemay122@gmail.com
-- LinkedIn: www.linkedin.com/in/nyolaemay
+📫 Contact  
+- Email: aungkaungmyat.kk3@gmail.com
 
-Thanks for stopping by!
